@@ -1,0 +1,14 @@
+ML Project ReadMe
+
+Downloading the data
+
+The code downloads the dataset automatically(Using Yfinance)
+
+Running Locally
+1. Open the code in VisualStudio
+2. Press the run all button
+3. VScode will automatically ask for needed dependencies press accept/enter
+4. wait for the code to execute
+5. Results will be printed in 2-3 mins 
+
+You can also use the code in google collab for better performance on weaker devices 
